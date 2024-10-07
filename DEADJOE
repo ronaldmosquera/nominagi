@@ -1,0 +1,54 @@
+
+*** These modified files were found in JOE when it aborted on Mon Mar 18 22:33:19 2019
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+/home/prueba109/html/Innofarm-Nomina/.git/MERGE_MSG
+/home/prueba109/html/Innofarm-Nomina/.git/MERGE_MSG
+/home/prueba109/html/Innofarm-Nomina/.git/MERGE_MSG
+/home/prueba109/html/Innofarm-Nomina/.git/MERGE_MSG
+/home/prueba109/html/Innofarm-Nomina/.git/MERGE_MSG
+/home/prueba109/html/Innofarm-Nomina/.git/MERGE_MSG
+/home/prueba109/html/Innofarm-Nomina/.git/MERGE_MSG
+/home/prueba109/html/Innofarm-Nomina/.git/MERGE_MSG
+/home/prueba109/html/Innofarm-Nomina/.git/MERGE_MSG
+/home/prueba109/html/Innofarm-Nomina/.git/MERGE_MSG
+/home/prueba109/html/Innofarm-Nomina/.git/MERGE_MSG
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
+
+*** These modified files were found in JOE when it aborted on Mon May 17 09:17:17 2021
+*** JOE was aborted by UNIX signal 1
+
+*** File '/home/prueba109/html/Innofarm-Nomina/.git/MERGE_MSG'
+Merge branch 'master' of https://github.com/ronaldmosquera/nomina
+
+# Please enter a commit message to explain why this merge is necessary,
+# especially if it merges an updated upstream into a topic branch.
+#
+# Lines starting with '#' will be ignored, and an empty message aborts
+# the commit.
+x
+
+*** File '(Unnamed)'
+/home/prueba109/html/Innofarm-Nomina/.git/MERGE_MSG
+/home/prueba109/html/Innofarm-Nomina/.git/MERGE_MSG
+/home/prueba109/html/Innofarm-Nomina/.git/MERGE_MSG
+/home/prueba109/html/Innofarm-Nomina/.git/MERGE_MSG
+/home/prueba109/html/Innofarm-Nomina/.git/MERGE_MSG
+/home/prueba109/html/Innofarm-Nomina/.git/MERGE_MSG
+/home/prueba109/html/Innofarm-Nomina/.git/MERGE_MSG
+/home/prueba109/html/Innofarm-Nomina/.git/MERGE_MSG
+/home/prueba109/html/Innofarm-Nomina/.git/MERGE_MSG
+/home/prueba109/html/Innofarm-Nomina/.git/MERGE_MSG
+/home/prueba109/html/Innofarm-Nomina/.git/MERGE_MSG
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
